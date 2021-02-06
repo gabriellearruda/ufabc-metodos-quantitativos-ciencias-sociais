@@ -1,1 +1,1 @@
-# ufabc-metodos-quantitativos-ciencias-sociais
+# Métodos Quantitativos para Ciências Sociais
