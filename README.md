@@ -28,7 +28,7 @@ As duas principais funções primordiais empregabilidade da estatística, é de 
   <details>
     <summary>Ver</summary>
 <h4> Organização</h4> 
-<img src="tabelafreq.png">
+<img src="tabelafreqresumo.jpg">
 <br>
 <br>
 <img src="https://render.githubusercontent.com/render/math?math=f=frequencia">
