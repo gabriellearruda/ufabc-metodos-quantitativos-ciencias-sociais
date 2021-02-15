@@ -27,6 +27,29 @@ As duas principais funções primordiais empregabilidade da estatística, é de 
 ### 08-14/02/21 Semana 2: Organização dos dados
   <details>
     <summary>Ver</summary>
+<h4> Organização</h4> 
+<img src="tabelafreq.png">
+<br>
+<br>
+<img src="https://render.githubusercontent.com/render/math?math=f=frequencia">
+<br>
+<br>
+<img src="https://render.githubusercontent.com/render/math?math=proporcao=\frac{f}{N}">
+<br>
+<br>
+<img src="https://render.githubusercontent.com/render/math?math=percentual=\frac{f}{N} \times 100">
+<br>
+<br>
+<img src="https://render.githubusercontent.com/render/math?math=razao=\frac{f1}{f2}">
+
+<h4> Tabulações cruzadas</h4>
+Tabela que apresenta a distribuição (frequências e porcentagens) de uma variável (dependente) por categoria de uma ou mais variáveis(independentes). Se a variável independente está nas linhas, utilize a porcentagem por linha, se a variável independente está na coluna, utilize a porcentagem por coluna.
+  </details>
+  
+  
+### 15-21/02/21 Semana 3: Medidas de tendência central
+  <details>
+    <summary>Ver</summary>
   </details>
   
   
