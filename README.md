@@ -50,6 +50,7 @@ Tabela que apresenta a distribuição (frequências e porcentagens) de uma vari�
 ### 15-21/02/21 Semana 3: Medidas de tendência central
   <details>
     <summary>Ver</summary>
+  <h4>Medidas de Tendência Central</h4>
   </details>
   
   
