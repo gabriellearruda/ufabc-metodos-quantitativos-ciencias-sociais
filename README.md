@@ -50,7 +50,33 @@ Tabela que apresenta a distribuição (frequências e porcentagens) de uma vari�
 ### 15-21/02/21 Semana 3: Medidas de tendência central
   <details>
     <summary>Ver</summary>
-  <h4>Medidas de Tendência Central</h4>
+  <h4>Moda</h4>
+<li> Categoria que ocorre com maior frequência em uma distribuição.
+<li> Nível de mensuração: nominal, ordinal ou intervalar;
+<li> Forma da distribuição: mais apropriada para bimodal;
+<li> Objetivo: medida de tendência central simples, mas um tanto grosseira.
+  <h4>Mediana</h4>
+<li> Nível de mensuração: ordinal ou intervalar;
+<li> Forma da distribuição: mais apropriada para assimetria acentuada;
+<li> Objetivo: medida precisa de tendência central (eventualmente pode ser usada para separar distribuições em 2 categorias).
+<br><br><img src="https://render.githubusercontent.com/render/math?math=mediana=\frac{N%2B1}{2}">
+<br><img src="https://render.githubusercontent.com/render/math?math=mediana(agrupada)=I%2B[\frac{\frac{N}{2}- f_a}{f}]h">
+<br>Primeiro se deve encontrar onde está a mediana que estará em <img src="https://render.githubusercontent.com/render/math?math=\frac{N}{2}">.
+<br>N = Número de casos na distribuição;
+<br>Fa = Frequência acumulada abaixo do limite inferior do intervalo crítico (intervalo de classe que contém a mediana);
+<br>I = Abaixo do limite inferior do intervalo crítico;
+<br>f = Frequência dentro do intervalo crítico;
+<br>h = Tamanho do intervalo de classe.
+  <h4>Média</h4>
+<li> É a medida de tendência central mais utilizada.
+<li> Nível de mensuração: intervalar;
+<li> Forma da distribuição: mais apropriada para simetria unimodal;
+<li> Objetivo: medida precisa de tendência central; frequentemente usada para operações estatísticas mais avançadas, inclusive em testes de tomada de decisão.
+<br><img src="https://render.githubusercontent.com/render/math?math=media=\frac{\sum{X}}{N}">
+<br><img src="https://render.githubusercontent.com/render/math?math=media_(agrupada)=\frac{\sum{frequencia_media}}{N}">
+  <h4>Forma da distribuição dos dados</h4>
+<li>Em uma distribuição unimodal perfeitamente simétrica a moda,a mediana,a média são idênticas.
+<li>Em distribuição assimétrica, a mediana sempre se situa entre a moda e a média, e isso torna a mediana a medida mais conveniente de tendência central.
   </details>
   
   
