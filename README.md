@@ -24,6 +24,9 @@ Os dados em uma pesquisa social desempenham pelo menos 3 funções importantes p
 As duas principais funções primordiais empregabilidade da estatística, é de <b>descrição</b> e <b>tomada de decisão.</b> Quanto a <b>descrição</b>, consiste em por meio de dispositivos estatísticos, como gráficos e distribuição de frequência, detectar e descrever padrões ou tendências, de forma que os dados quantitativos se tornem convenientes termos descritivos. Já a <b>tomada de decisão,</b> é quando usamos os dispositivos estatísticos, para além da descrição, tornar inferências de amostras e assim validar ou não suas hipóteses.
   </details>
   
+  
+  
+  
 ### 08-14/02/21 Semana 2: Organização dos dados
   <details>
     <summary>Ver</summary>
@@ -45,6 +48,8 @@ As duas principais funções primordiais empregabilidade da estatística, é de 
 <h4> Tabulações cruzadas</h4>
 Tabela que apresenta a distribuição (frequências e porcentagens) de uma variável (dependente) por categoria de uma ou mais variáveis(independentes). Se a variável independente está nas linhas, utilize a porcentagem por linha, se a variável independente está na coluna, utilize a porcentagem por coluna.
   </details>
+  
+  
   
   
 ### 15-21/02/21 Semana 3: Medidas de tendência central
@@ -79,5 +84,44 @@ Tabela que apresenta a distribuição (frequências e porcentagens) de uma vari�
 <li>Em distribuição assimétrica, a mediana sempre se situa entre a moda e a média, e isso torna a mediana a medida mais conveniente de tendência central.
   </details>
   
+
+
+
+### 22-28/02/21 Semana 4: Medidas de variabilidade
+  <details>
+    <summary>Ver</summary>
+    <h4>Variabilidade</h4>
+<li> Isoladamente, as medidas de tendência central mostram um quadro incompleto dos dados. Além de uma medida de tendência central, precisamos de um índice de dispersão dos dados em torno do centro da distribuição. Exemplo: as temperaturas diárias de Honolulu (HI) e Phoenix (AZ), em média, têm 75oF (24oC). Elas seriam as mesmas em ambas cidades? Enquanto em Honolulu a variação de temperatura é de 70oF (21oC) a 80oF (27oC), Phoenix varia de 40oF (4oC) em janeiro para 100oF (38oC) em julho.
+<br><img src="distribuicao.png">
+  <li> Veremos amplitude, desvio-médio, variância e desvio-padrão.
+    <h4>Amplitude</h4>
+<li> Para uma medida rápida de variabilidade podemos calcular a amplitude (A), a diferença entre o mais alto e o mais baixo escore em uma distribuição. <b>Vantagem</b>: cálculo rápido e fácil. <b>Desvantagem</b>: um dado extremo distorce a amplitude.
+<br><img src="https://render.githubusercontent.com/render/math?math=A=S-I">
+<br>A = amplitude;
+<br>S = escore mais alto em uma distribuição;
+<br>I = escore mais baixo em uma distribuição;
+    <h4>Desvio-Médio</h4>
+<li> Soma dos desvios absolutos dividido por N, medida de variabilidade matematicamente inadequada, mas com base segura para entender a variância.
+<br><img src="https://render.githubusercontent.com/render/math?math=DM=\frac{\sum{|X-X_m|}}{N}">
+<br>DM – Desvio médio;
+<br>∑|X – X_m| = Soma dos desvios absolutos;
+<br><img src="https://render.githubusercontent.com/render/math?math=X_m=\frac{\sum{|X|}}{N}">
+<br>N = Número total de escores;
+  <h4>Desvio-padrão</h4>
+<li> O desvio-médio foi abandonado pelos pesquisadores em favor da variância e do desvio-padrão. O desvio-médio evita os números negativos, que se cancelam com os positivos. Isso gera problemas em análises mais sofisticadas.
+<li> <b>Desvio-padrão</b> (raiz quadrada da variância)
+<br><img src="https://render.githubusercontent.com/render/math?math=S=\frac{\sum{(X-X_m)^2}}{N}">
+<br>S = variância;
+<br>∑(X – X_m)^2 = Soma dos quadrados dos desvios em relação à média;
+<br>N = Número total de escores;
+  </details>
+  
+  
+  
+  
+### 01-07/03/21 Semana 5: Probabilidade e a curva normal
+  <details>
+    <summary>Ver</summary>
+  </details>
   
 [DOC EXERCICIOS](https://docs.google.com/document/d/1U_d482gTjWEXyXpX_U_J7kgDzg9Rk21NnsbpjnP08Qs/edit?usp=sharing)
