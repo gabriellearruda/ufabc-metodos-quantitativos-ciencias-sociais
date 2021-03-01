@@ -127,9 +127,18 @@ Tabela que apresenta a distribuição (frequências e porcentagens) de uma vari�
   
   
   
-### 01-07/03/21 Semana 5: Probabilidade e a curva normal
+## 01-07/03/21 Semana 5: Probabilidade e a curva normal
   <details>
     <summary>Ver</summary>
+  <h3>Probabilidade</h3>
+  <li> A pedra angular da tomada de decisão (teste de hipóteses por meio de análise de dados) é a probabilidade.
+  <h3>Curva Normal</h3>
+  <li> A curva normal é um modelo teórico ou ideal obtido através de uma equação matemática e não de uma pesquisa ou coleta de dados, mas que tem aplicação efetiva em pesquisa.
+  <li> Podemos calcular a distância de desvio padrão (σ) de qualquer escore bruto dado.
+<br><img src="https://render.githubusercontent.com/render/math?math=z=\frac{X-\mu}{\sigma}">
+<br>μ = média de uma distribuição;
+<br>σ = desvio-padrão de uma distribuição;
+<br>z = escore padronizado;
   </details>
   
 [DOC EXERCICIOS](https://docs.google.com/document/d/1U_d482gTjWEXyXpX_U_J7kgDzg9Rk21NnsbpjnP08Qs/edit?usp=sharing)
