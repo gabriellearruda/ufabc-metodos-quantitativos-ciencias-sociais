@@ -120,7 +120,7 @@ Tabela que apresenta a distribuição (frequências e porcentagens) de uma vari�
 <br><img src="https://render.githubusercontent.com/render/math?math=X_m=\frac{\sum{(fX)}}{N}">
 <br>
 <li> <b>Desvio-padrão - frequências agrupadas</b>
-<br><img src="https://render.githubusercontent.com/render/math?math=S=\frac{\sum{(fm^2-X_m^2)}}{N}">
+<br><img src="https://render.githubusercontent.com/render/math?math=S=\frac{\sum{f(m-X_m)^2}}{N}">
 <br><img src="https://render.githubusercontent.com/render/math?math=X_m=\frac{\sum{(fm)}}{N}">
   </details>
   
@@ -139,6 +139,19 @@ Tabela que apresenta a distribuição (frequências e porcentagens) de uma vari�
 <br>μ = média de uma distribuição;
 <br>σ = desvio-padrão de uma distribuição;
 <br>z = escore padronizado;
+<br>Depois verifica em uma tabela de z-score de probabilidade, que nem a que pode ser acesada em anexo.
   </details>
+  
+  
+## 08-14/03/21 Semana 6: Amostras e populações
+  <details>
+    <summary>Ver</summary>
+  <h3>Probabilidade</h3>
+A estatística amostral é o elo de ligação entre a Teoria das Probabilidades e a Inferência Estatística (a primeira é o instrumento de medida da segunda).
+<br>
+Na Teoria das Probabilidades buscam-se resultados gerais que possam ser aplicados a casos particulares; na Inferência Estatística buscam-se resultados particulares que se apliquem a casos gerais. As duas juntas evidenciam as relações entre as amostras e as populações de onde foram extraídas.
+  <h3>Probabilidade</h3>
+  </details>  
+  
   
 [DOC EXERCICIOS](https://docs.google.com/document/d/1U_d482gTjWEXyXpX_U_J7kgDzg9Rk21NnsbpjnP08Qs/edit?usp=sharing)
